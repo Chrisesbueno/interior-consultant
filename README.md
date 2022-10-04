@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Chrisesbueno/interior-consultant">
+    <a href="https://devchallenges.io/solutions/HGCG0u2ZKWP0mLLdD0Uf">
       Solution
     </a>
     <span> | </span>
