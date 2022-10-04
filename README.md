@@ -36,13 +36,16 @@
 
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
 - Where can I see your demo?
   <h3><a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb"> Demo </a></h3>
 - What was your experience?
-  <h3></h3>
+  <h3>It was very stressful learning how to make the menu but I feel good after learning it
+</h3>
 - What have you learned/improved?
-  <h3></h3>
+  <h3>To make PopUps with js
+</h3>
 
 ## Features
 
@@ -52,5 +55,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@chrisesbueno](https://chrisesbueno)
-- Twitter [@chrisesbueno](https://chrisesbueno)
+- GitHub [@chrisesbueno](https://github.com/chrisesbueno)
+- Twitter [@chrisesbueno](https://twitter.com/chrisesbueno)
