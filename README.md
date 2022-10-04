@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://chrisesbueno.github.io/interior-consultant/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Chrisesbueno/interior-consultant">
       Solution
     </a>
     <span> | </span>
@@ -34,18 +34,16 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/Chrisesbueno/interior-consultant/main/DesktopVersion.png)
+![screenshot](https://raw.githubusercontent.com/Chrisesbueno/interior-consultant/main/MobileVersion.png)
+![screenshot](https://raw.githubusercontent.com/Chrisesbueno/interior-consultant/main/MobileMenu.png)
 
 - Where can I see your demo?
-  <h3><a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb"> Demo </a></h3>
+  <h3><a href="https://chrisesbueno.github.io/interior-consultant/"> Demo </a></h3>
 - What was your experience?
-  <h3>It was very stressful learning how to make the menu but I feel good after learning it
-</h3>
+  <h3> It was very stressful learning how to make the menu but I feel good after learning it </h3>
 - What have you learned/improved?
-  <h3>To make PopUps with js
-</h3>
+  <h3> To make PopUps with js </h3>
 
 ## Features
 
